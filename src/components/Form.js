@@ -15,15 +15,15 @@ const Form = () => (
         <br />
 
         <label>
-        Nom:
-        <input type="text" name="name" />
+        Emplacement:
+        <input type="text" name="emplacement" />
         </label>
 
         <div>
         <label for="pic">Photo:</label>
         <input type="file"
                id="pic" name="pic"
-               accept="image/png, image/jpeg" />
+               accept="image/png, image/jpeg, image/jpg" />
         </div>
 
         <hr />
