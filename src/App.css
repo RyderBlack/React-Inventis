@@ -32,11 +32,12 @@
 
 .formulaire {
   margin-top: 2em;
-  background-color: #fff;
+  
 }
 
 input {
-  padding: 20px;
+  padding: 30px;
   width: 100%;
   font-family: "Roboto";
+  background-color: #fff;
 }
