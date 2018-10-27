@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Form = () => (
-    <form>
+    <form className="formulaire">
         <label>
         Nom:
         <input type="text" name="name" />
