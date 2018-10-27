@@ -27,7 +27,7 @@ const Form = () => (
         </div>
 
         <hr />
-        <input type="submit" value="Submit" />
+        <input type="submit" value="Submit" className="buttony"/>
     </form>
 );
 
